@@ -1,1 +1,1 @@
-[![Matt's Github Stats](https://github-readme-stats.vercel.app/api?username=DarkBuffalo)](https://github.com/darkbuffalo/github-readme-stats)
+[![Matt's Github Stats](https://github-readme-stats.vercel.app/api?username=DarkBuffalo)](https://github.com/darkbuffalo/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbuffalo&layout=compact)](https://github.com/darkbuffalo/github-readme-stats)
