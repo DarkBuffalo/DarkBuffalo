@@ -2,7 +2,7 @@
 ```emacs-lisp
 (defconst matthias-david-alist
   '((country   . "france")
-    (work   . "indépendant")
+    (work      . "indépendant")
     (languages . '("python" "emacs-lisp" "LaTeX" "PHP"))))
 ```
 
