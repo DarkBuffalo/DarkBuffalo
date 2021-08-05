@@ -1,6 +1,6 @@
 
 ```emacs-lisp
-(defconst matthias-david-alist
+(defconst DarkBuffalo-alist
   '((country   . "france")
     (work      . "indépendant")
     (languages . '("python" "emacs-lisp" "LaTeX" "PHP"))))
